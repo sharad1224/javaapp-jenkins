@@ -5,5 +5,7 @@
 
 <p> this is test for javaapp-jenkins </p>
 <a href ="about.jsp">About Page</a>
+
+<a href ="services.jsp">Services Page</a>
 </body>
 </html>
